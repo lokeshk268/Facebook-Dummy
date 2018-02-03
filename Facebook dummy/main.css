@@ -1,0 +1,28 @@
+.b{
+font-family: 'Times New Roman', Times, serif;
+color: white;
+margin-left:600px;
+margin-top: 15px;
+margin-bottom: 20px;
+
+}
+#a{
+    color: white;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c{
+    margin-top: 0px;
+}
+.create{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 800px;
+
+}
+.image{
+    position: absolute;
+    top:100px;
+    left: 50px
+}
